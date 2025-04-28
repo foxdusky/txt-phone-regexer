@@ -19,7 +19,7 @@ txt-phone-regexer — скрипт на Python 3.11+, который ищет н
 
 Запустите скрипт, указав путь к файлу:
 
-    python phone_regexer.py file_path.txt
+    python main.py file_path.txt
 
 ### ⚙️ Что поддерживает ###
 
